@@ -4,3 +4,5 @@ For good measure I added periodic asteroids which enter the solar system and are
 For Good measure I added a space ship which comes into the system
 Note all planets are accurate orbits including pluto which has an orbit which is off the plane of the ecliptic.
 Uses Pygame to do the graphics.
+
+run the application using python3 src/SolarSystem/main.py
