@@ -5,4 +5,4 @@ For Good measure I added a space ship which comes into the system
 Note all planets are accurate orbits including pluto which has an orbit which is off the plane of the ecliptic.
 Uses Pygame to do the graphics.
 
-run the application using python3 src/SolarSystem/main.py (testing again)
+run the application using python3 src/SolarSystem/main.py ()
