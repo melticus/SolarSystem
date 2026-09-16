@@ -6,3 +6,5 @@ Note all planets are accurate orbits including pluto which has an orbit which is
 Uses Pygame to do the graphics.
 
 run the application using python3 src/SolarSystem/main.py ()
+
+![alt text](image.png)
